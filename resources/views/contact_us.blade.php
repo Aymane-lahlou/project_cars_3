@@ -101,8 +101,8 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Address:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">DR kkkd sidkm slfl sdkfsp</p>
-                <p class="text-sm font-light text-gray-700 font-car">Zip Code/Postal code:55737668263282983</p>
+                <p class="text-sm font-light text-gray-700 font-car">rue medhi ben barka casablnca</p>
+                <p class="text-sm font-light text-gray-700 font-car">Zip Code/Postal code:557376</p>
             </div>
             <div>
                 <div class="w-20 p-6 mx-auto mb-3 bg-gray-200 rounded-md ">

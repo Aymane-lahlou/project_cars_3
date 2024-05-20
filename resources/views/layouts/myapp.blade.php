@@ -437,15 +437,22 @@
                     </div>
                     <div class="grid grid-cols-3 gap-8 ">
                         <div>
-                            <h2 class="mb-6 text-sm font-semibold  uppercase text-white">Resources</h2>
+                            <h2 class="mb-6 text-sm font-semibold  uppercase text-white">Pages</h2>
                             <ul class=" text-gray-400">
                                 <li class="mb-4">
-                                    <a href="https://laravel.com/" target='_blank'="hover:underline">Laravel 10.x</a>
+                                    <a href="/" target=''="hover:underline">Home</a>
                                 </li>
                                 <li>
-                                    <a href="https://tailwindcss.com/" target='_blank'
-                                        class="hover:underline">Tailwind
-                                        CSS</a>
+                                    <a href="{{ route('cars') }}" target=''
+                                        class="hover:underline">Cars</a>
+                                </li> <br>
+                                <li>
+                                    <a href="/location" target=''
+                                        class="hover:underline">Location</a>
+                                </li> <br>
+                                <li>
+                                    <a href="/contact_us" target=''
+                                        class="hover:underline">Contact Us</a>
                                 </li>
                             </ul>
                         </div>

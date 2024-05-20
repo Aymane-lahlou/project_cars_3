@@ -5,18 +5,15 @@
 
 
         <div class="bg-sec-100 ">
-            {{-- hero --}}
             <div class="flex justify-center md:py-28 py-12 mx-auto max-w-screen-xl">
                 <div class="flex  flex-col justify-center md:w-3/5  mx-12 md:ms-20 md:mx-0">
-                    <h1 class=" md:text-start text-center  font-car font-bold text-gray-900 mb-8  md:text-7xl text-4xl "><span class="text-pr-400"> EASY
-                        </span>AND
-                        FAST WAY TO RENT YOUR CAR</h1>
+                    <h1 class=" md:text-start text-center  font-car font-bold text-gray-900 mb-8  md:text-7xl text-4xl "><span class="text-pr-400"> RENT
+                        </span>
+                        YOUR CAR IN NO TIME</h1>
                     <div class="md:w-3/5 md:hidden  ">
                         <img loading="lazy" src="/images/home car.png" alt="home car">
                     </div>
-                    <p class="text-justify md:mx-0 mx-8 ">Whether you're planning a weekend
-                        getaway or a cross-country adventure, we've got you covered. With our wide selection of vehicles and
-                        convenient booking system, renting a car has never been this effortless.</p>
+                    <p class="text-justify md:mx-0 mx-8 ">Planning a weekend getaway to the charming souks of Marrakech or a cross-country adventure through the stunning Atlas Mountains? We've got you covered. With our wide selection of vehicles and convenient booking system, renting a car in Morocco has never been this effortless.</p>
                     <div class="flex justify-center md:justify-start mt-12 md:w-2/3 me-12 md:-ms-12">
                         <a href="/cars">
                             <button
@@ -40,7 +37,7 @@
             <div class="mx-auto max-w-screen-xl">
                 <div class="flex align-middle justify-center">
                     <hr class=" mt-8 h-0.5 w-2/5 bg-pr-500">
-                    <p class="my-2 mx-8  p-2 font-car font-bold text-pr-400 text-lg ">CARS</p>
+                    <p class="my-2 mx-8  p-2 font-car font-bold text-pr-400 text-lg ">OUR  CARS</p>
                     <hr class=" mt-8 h-0.5 w-2/5 bg-pr-500">
                     <hr>
                 </div>
@@ -151,12 +148,7 @@
                             class=" text-gray-900">Why</span> Choose us</h2>
                 </div>
                 <div class="mt-7 mb-16">
-                    <p class="md:text-center text-xl text-justify mx-8 ">We
-                        prioritize your satisfaction and strive to make your car rental experience as seamless as possible.
-                        With our wide selection of well-maintained vehicles, competitive prices, and simple booking process,
-                        you can trust us to meet your needs. Our dedicated customer service team is available around the
-                        clock to assist you, ensuring that you receive the support you deserve. Whether you need a car for a
-                        weekend getaway or a long road trip, choose us for a hassle-free and enjoyable journey.</p>
+                    <p class="md:text-center text-xl text-justify mx-8 ">Your satisfaction is our top priority, and we strive to make your car rental experience seamless. With a wide selection of well-maintained vehicles, competitive prices, and a simple booking process, you can trust us to meet your needs. Our dedicated customer service team is available around the clock to assist you, ensuring you receive the support you deserve. Whether you need a car for a weekend getaway or a long road trip, choose us for a hassle-free and enjoyable journey.</p>
                 </div>
 
                 <div
