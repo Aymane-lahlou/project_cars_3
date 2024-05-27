@@ -31,7 +31,7 @@
 
             </div>
 
-            {{-- Cars Section --}}
+            {{-- Cars section --}}
 
 
             <div class="mx-auto max-w-screen-xl">
@@ -275,7 +275,7 @@
 
             </div>
 
-            {{-- Orange car section --}}
+            {{-- Orange Car Section --}}
             <div class=" relative -bottom-[1px] mx-auto max-w-screen-xl  ">
             </div>
 
